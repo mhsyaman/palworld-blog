@@ -11,4 +11,4 @@ Players can capture, train, and use " Pal " creatures to fight or perform other 
 ![](https://github.com/RevoU-FSSE-4/module-1-mhsyaman/assets/98678219/3a7cea39-46c7-4869-b2fe-37bbdece8c62)
 
 ### Full Version Demo
-> #### [Palworld](https://palworld-blog.netlify.app/)
+> #### [Palworld](https://info-palworld-blog.netlify.app/)
