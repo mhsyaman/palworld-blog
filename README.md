@@ -9,7 +9,7 @@ Palworld is a unique game combining several games such as **[Pokemon](https://id
 Players can capture, train, and use " Pal " creatures to fight or perform other activities. Players can work on farming and daily life, such as planting crops, raising animals, and interacting with non-player characters (NPCs), there is a crafting and building system, where players can create various items and structures to help them explore and survive in the game world and players can freely explore in their way.
 
 ### Screenshot
-![](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8ab419d7-fdbc-44ac-b89a-68a464e55040" />)
+![](https://github.com/user-attachments/assets/7ce29e9c-cb9a-46c4-83b6-501b814325ed)
 
 ### Full Version Demo
 > #### [Palworld](https://info-palworld-blog.netlify.app/)
